@@ -4,7 +4,7 @@ vless://16bb0986-9660-470a-a8a7-ae428dea8580@cdn13.cloud-vk.com:443?security=rea
 
 vless://d78c12c4-6927-40b8-8550-ed9be00334da@cxc.draa.cl:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=cxc.draa.cl&fp=chrome&pbk=uygpqJQwTkfQMLxEmW58Fw2U-sB3QqCEJtiNoNXd-hQ&sid=f3f3c3c8e576275c#🇬🇧 Великобритания
 
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@de.sbrf-cdn342.ru:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#🇩🇪 Германия
+vless://2a87235a-cac6-4751-a42a-da603f7de13c@ru.pool-b.vodkacore.pro:44003?type=tcp&headerType=none&security=reality&encryption=none&sni=netcenter-cdn.com&fp=qq&pbk=mCtDwMr9u9MdztUGzCGADj-nfHv6CQpAf_ywbyKl8ww&sid=ab3f86b9f8e956&spx=%2F&flow=xtls-rprx-vision#🇩🇪 Германия
 
 vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev&type=ws#🇨🇦 Канада
 
