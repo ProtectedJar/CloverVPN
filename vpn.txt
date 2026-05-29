@@ -14,6 +14,4 @@ vless://73b7ea7f-2e71-4ced-8e0f-0f441d08960b@api.xwhiteness.site:443?type=tcp&se
 
 vless://d78c12c4-6927-40b8-8550-ed9be00334da@cxc.draa.cl:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=cxc.draa.cl&fp=chrome&pbk=uygpqJQwTkfQMLxEmW58Fw2U-sB3QqCEJtiNoNXd-hQ&sid=f3f3c3c8e576275c#🇬🇧 Великобритания
 
-vless://43158d39-8066-4df4-b74e-2ab29f207e0a@104.18.89.89:80?type=ws&host=29.alij47649.workers.dev&path=/?ed=2048&security=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-15300
-
-vless://43158d39-8066-4df4-b74e-2ab29f207e0a@104.19.51.118:80?type=ws&host=29.alij47649.workers.dev&path=/?ed=2048&security=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-15301
+vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-15611
