@@ -19,4 +19,4 @@ vless://d78c12c4-6927-40b8-8550-ed9be00334da@cxc.draa.cl:443?type=tcp&security=r
 
 vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev&type=ws#🇨🇦 Канада
 
-vless://cc1c6c8a-91ee-4ed6-9d42-d63510bb1190@83.229.14.131:58888?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D
+vless://cc1c6c8a-91ee-4ed6-9d42-d63510bb1190@83.229.14.131:58888?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#🇱🇻 Латвия
