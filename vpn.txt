@@ -14,7 +14,7 @@ vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@uae.sbrf-cdn342.ru:443?security=tls
 
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fi-g.sbrf-cdn342.ru:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#🇫🇮 Финляндия
 
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#🇫🇷 Франция
+trojan://Tel%3DArshiacomplus@45.154.96.35:58035?type=xhttp&mode=stream-one&host=oof.acp.us.ci&path=/fkcidiekei&security=tls&fp=firefox&sni=oof.acp.us.ci&alpn=h2,http/1.1#🇫🇷 Франция
 
 vless://17806bc0-2940-4ead-b279-a034641b3495@158.160.22.127:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=api-maps.yandex.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=672ff0#🇨🇿 Чехия
 
