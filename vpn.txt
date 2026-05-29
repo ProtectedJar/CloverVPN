@@ -1,3 +1,6 @@
+
+#vpn
+
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@uae.sbrf-cdn342.ru:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%A6%F0%9F%87%AA%20%D0%9E%D0%90%D0%AD
 
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
