@@ -8,10 +8,6 @@ vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fi-g.sbrf-cdn342.ru:443?security=tl
 
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@de.sbrf-cdn342.ru:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
 
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
-
-vless://ba895ce4-8c24-0004-9f22-81ee227c89d0@ru7.aimodelhub.top:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=Fe5PnOaERhhHbBXhGBEsQaRUBpSM8hCc03zOEpHz218&fp=chrome&type=xhttp&sni=ru7.aimodelhub.top&sid=51b784e13468#%F0%9F%87%B1%F0%9F%87%BB%D0%9B%D0%B8%D1%82%D0%B2%D0%B0
-
 vless://48a207c3-bcb2-4b1b-951f-96c2bcdd4bf8@deepl.xwhiteness.site:443?type=tcp&security=reality&pbk=qEUU6oGBD_rjO0319EK4rAnsPhlqrb-ecCgQsT4JUmI&fp=chrome&sni=deepl.com&flow=xtls-rprx-vision&encryption=none#🇸🇪%20Швеция
 
 vless://73b7ea7f-2e71-4ced-8e0f-0f441d08960b@api.xwhiteness.site:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=api.xwhiteness.site&fp=chrome&pbk=6D3MsXVNHjWAmxIRlBTmZAw7fK8bCQIBN3TkZ2_F-hg&sid=#🇪🇪 Эстония
