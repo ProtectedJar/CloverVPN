@@ -1,5 +1,5 @@
 
-#vpnвав
+#vpnвавф
 
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@uae.sbrf-cdn342.ru:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%F0%9F%87%A6%F0%9F%87%AA%20%D0%9E%D0%90%D0%AD
 
